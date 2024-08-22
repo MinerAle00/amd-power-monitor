@@ -109,3 +109,4 @@ WIP
 - **Documentazione di Prometheus**: [Prometheus Documentation](https://prometheus.io/docs/)
 - **Documentazione di Grafana**: [Grafana Documentation](https://grafana.com/docs/)
 - **Forum di Supporto**: [Prometheus GitHub Discussions](https://github.com/prometheus/prometheus/discussions), [Grafana Community](https://community.grafana.com/)
+- **AMD Energy**: [Rapl Github](https://github.com/amd/amd_energy)
