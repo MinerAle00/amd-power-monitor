@@ -1,0 +1,22 @@
+services:
+  grafana:
+    image: grafana/grafana-oss:latest
+    container_name: grafana
+    ports:
+    - 3000:3000
+    restart: unless-stopped
+    volumes:
+      - grafana-data:/var/lib/grafana
+  
+  prometheus:
+    image: prometheus
+    container_name: prometheus
+    ports:
+      - 9090:9090
+    restart: unless-stopped
+    volumes:
+      - prometheus-data:/prometheus
+
+volumes:
+  grafana-data: {}
+  prometheus-data: {}
