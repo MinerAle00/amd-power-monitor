@@ -2,6 +2,8 @@
 
 Questa repository fornisce una guida dettagliata per configurare il monitoraggio del consumo energetico delle CPU AMD utilizzando Grafana e Prometheus. La soluzione proposta consente di raccogliere, visualizzare e analizzare i dati sul consumo energetico delle CPU AMD in tempo reale, offrendo una panoramica completa delle prestazioni e dell’efficienza energetica del sistema.
 
+**La repository non é ancora completa di tutti i passaggi, nei prossimi giorni verrá ultimata**
+
 ## Indice
 
 - [Requisiti](#requisiti)
